@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task Four</string>
+    <string name="editText">Full Name*</string>
+    <string name="editText2">Age*</string>
+    <string name="textView5">(Fields with * are mandatory)</string>
+    <string name="button">SUBMIT</string>
+    <string name="textView">ENTER DETAILS</string>
+    <string name="textView2">2</string>
+    <string name="textView3">3</string>
+    <string name="textView4">THANKYOU</string>
+
+</resources>
